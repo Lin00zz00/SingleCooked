@@ -52,7 +52,7 @@ We would like to express our gratitude to the following organizations for their 
 - [Immersal](https://immersal.com/)
 - [MirrorVerse](https://deepmirror.vercel.app/)
 
-And special thanks to our teachers, [Tongzhou Yu](https://Tongzhou-Yu.github.io) and [Botao Amber Hu](https://github.com/botaohu), for their invaluable guidance and support!
+And special thanks to our teachers, [Tongzhou Yu](https://github.com/Tongzhou-Yu) and [Botao Amber Hu](https://github.com/botaohu), for their invaluable guidance and support!
 
 ## Contact
 
