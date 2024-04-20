@@ -70,7 +70,6 @@ Playtesting: Test the game flow and mechanics in a classroom setting.
 Model Rescanning: Rescan physical models for accuracy.
 On-site UI Panel and Model Position Debugging: Adjust UI panels and model positions.
 Live Demo Recording: Record a live demonstration of the gameplay (enjoying delicious tomato and egg stir-fry🍛😋).
-### ## Roadmap
 
 | **(Initial Vision)**                   | **(Implemented Features)** |
 |----------------------------------------|-----------------|
