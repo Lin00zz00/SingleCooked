@@ -1,20 +1,19 @@
 # SingleCooked
 An AR software that assists in cooking, where little vegetable elves accompany you throughout the entire cooking process. Ideal for novice chefs who love Chinese dishes. :smirk_cat::smirk_cat:
 
-|<font color="red">S</font>|<font color="orange">i</font>|<font color="yellow">n</font>|<font color="green">g</font>|<font color="blue">l</font>|<font color="indigo">e</font>|<font color="purple">C</font>|<font color="red">o</font>|<font color="orange">o</font>|<font color="yellow">k</font>|<font color="green">e</font>|<font color="blue">d</font>|
-|---|---|---|---|---|---|---|---|---|---|---|---|
 # 🟥S🟧i🟨n🟩g🟦l🟪e🟥C🟧o🟨o🟩k🟦e🟪d🟥
 
 SingleCooked is an augmented reality (AR) application designed to assist users in cooking various dishes. Users can choose the dishes they like and follow step-by-step instructions to prepare it, all while being accompanied by cute vegetable elves for guidance and entertainment. 
 
 YOU CAN CHANGE 🍅🥚🧅🍆🥕🥦🧄🥔🌶️🫑🐖🐔🐂🐟 INTO 🍖🌮🍳🍲🥗🍲🍳🍕🍚🍜🍝🍱🍛🍢🍥🍣 BY SingleCooked!!!!
 
-## Installation
+## Installation![License](https://img.shields.io/badge/License-🍽️-red.svg)
+
 
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/yourusername/ar-kitchen-helper.git
+    git clone https://github.com/Lin00zz00/SingleCooked.git
     ```
 
 2. Install dependencies in the project directory:
