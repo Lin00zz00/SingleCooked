@@ -33,7 +33,6 @@ SingleCooked is an augmented reality (AR) application designed to assist users i
 - Augmented reality cooking instructions for various dishes.
 - Digitally scanned and modeled kitchen environment.
 - Friendly vegetable sprites for guidance and entertainment.
-- Support for a variety of dish recipes.
 
 ## Version History
 
