@@ -24,11 +24,11 @@ YOU CAN CHANGE 🍅🥚🧅🍆🥕🥦🧄🥔🌶️🫑🐖🐔🐂🐟 INTO 
 
 ## Usage
 
-1. Open the AR Kitchen Helper application.
+1. Open the SingleCooked application.🤤
 2. Locate the designated markers within the digitally scanned kitchen environment.
 3. Scan the markers to initiate the cooking instructions for selected dishes from the menu.
 4. Follow the on-screen instructions to prepare the dishes.
-5. Enjoy the company and assistance of the vegetable sprites throughout the cooking process.
+5. Enjoy the company and assistance of the vegetable elves throughout the cooking process(also your delicious dishes!🥢)
 
 ## Features
 
