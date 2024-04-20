@@ -27,7 +27,7 @@ SingleCooked is an augmented reality (AR) application designed to assist users i
 
 1. Open the SingleCooked application.🤤
 2. Locate the designated markers within the digitally scanned kitchen environment.
-3. Scan the markers to initiate the cooking instructions for selected dishes from the menu.
+3. Use specified gestures to select the dishes to be cooked from the menu.
 4. Follow the on-screen instructions to prepare the dishes.
 5. Enjoy the company and assistance of the vegetable elves throughout the cooking process
 6. Enjoy your delicious dishes!!🥢
@@ -83,7 +83,7 @@ Live Demo Recording: Record a live demonstration of the gameplay (enjoying delic
 | Vegetable Sprite Companion Functionality: Introduce vegetable sprites to accompany users during cooking.              |✅The required vegetables for the cooking steps appear, with paths following around to accompany. (Dotween) Add a new display in the lower right corner to show the corresponding vegetables for each step, making food preparation clearer.|
 | Interactive Features: Implement click and gesture interactions.                         |✅"OK" for selection or to proceed to the next step, "Five" for not selecting but to proceed to the next menu function.|
 | Gesture Recognition: Implement gesture recognition for interactive controls.                        |Click interaction ❌. (Choose gesture interaction ✅. OK for selection or to proceed to the next step, Five for not selecting but to proceed to the next menu function.)|
-
+||Add an animation for Succeed step🙌|
 
 ## License
 
