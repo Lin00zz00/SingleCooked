@@ -7,7 +7,7 @@ An AR software that assists in cooking, where little vegetable elves accompany y
 
 SingleCooked is an augmented reality (AR) application designed to assist users in cooking various dishes. Users can choose the dishes they like and follow step-by-step instructions to prepare it, all while being accompanied by cute vegetable elves for guidance and entertainment. 
 
-YOU CAN CHANGE:tomato::egg::onion::eggplant::carrot::broccoli::garlic::potato::hot_pepper::bell_pepper::pig::chicken::ox:：fish:INTO:meat_on_bone::taco::shallow_pan_of_food::fondue::green_salad::stew::fried_egg::pizza::rice::ramen::spaghetti::bento::curry::oden::fish_cake::sushi:BY SingleCooked!!!!
+YOU CAN CHANGE 🍅🥚🧅🍆🥕🥦🧄🥔🌶️🫑🐖🐔🐂🐟 INTO 🍖🌮🍳🍲🥗🍲🍳🍕🍚🍜🍝🍱🍛🍢🍥🍣 BY SingleCooked!!!!
 
 ## Installation
 
