@@ -7,7 +7,7 @@ SingleCooked is an augmented reality (AR) application designed to assist users i
 
 YOU CAN CHANGE 🍅🥚🧅🍆🥕🥦🧄🥔🌶️🫑🐖🐔🐂🐟 INTO 🍖🌮🍳🍲🥗🍲🍳🍕🍚🍜🍝🍱🍛🍢🍥🍣 BY SingleCooked!!!!
 
-## Installation![License](https://img.shields.io/badge/License-🍽️-yellow.svg)
+## Installation![License](https://img.shields.io/badge/License-MIT🍽️-yellow.svg)
 
 
 1. Clone this repository to your local machine:
