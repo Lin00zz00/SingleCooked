@@ -1,11 +1,8 @@
 # SingleCooked
-An AR software that assists in cooking, where little vegetable elves accompany you throughout the entire cooking process. Ideal for novice chefs who love Chinese dishes. :smirk_cat::smirk_cat:
-
-# 🟥S🟧i🟨n🟩g🟦l🟪e🟥C🟧o🟨o🟩k🟦e🟪d🟥
 
 SingleCooked is an augmented reality (AR) application designed to assist users in cooking various dishes. Users can choose the dishes they like and follow step-by-step instructions to prepare it, all while being accompanied by cute vegetable elves for guidance and entertainment. 
 
-YOU CAN CHANGE 🍅🥚🧅🍆🥕🥦🧄🥔🌶️🫑🐖🐔🐂🐟 INTO 🍖🌮🍳🍲🥗🍲🍳🍕🍚🍜🍝🍱🍛🍢🍥🍣 BY SingleCooked!!!!
+## YOU CAN CHANGE 🍅🥚🧅🍆🥕🥦🧄🥔🌶️🫑🐖🐔🐂🐟 INTO 🍖🌮🍳🍲🥗🍲🍳🍕🍚🍜🍝🍱🍛🍢🍥🍣 BY SingleCooked!!!!
 
 ## Installation![License](https://img.shields.io/badge/License-MIT🍽️-yellow.svg)
 
@@ -38,10 +35,6 @@ YOU CAN CHANGE 🍅🥚🧅🍆🥕🥦🧄🥔🌶️🫑🐖🐔🐂🐟 INTO 
 - Friendly vegetable sprites for guidance and entertainment.
 - Support for a variety of dish recipes.
 
-## Contributing
-
-We welcome contributions from the community! If you would like to contribute code or suggest improvements, please see our [contribution guidelines](CONTRIBUTING.md).
-
 ## Version History
 
 - 1.0.0 (2024-04-20): 🏫 Classroom Corner Edition
@@ -54,3 +47,5 @@ This project is licensed under the MIT License. For details, please see the [LIC
 ## Contact
 
 For any questions or feedback, please contact us at [ssl00zz00990000@gmail.com](mailto:ssl00zz00990000@gmail.com).
+
+## 🟥S🟧i🟨n🟩g🟦l🟪e🟥C🟧o🟨o🟩k🟦e🟪d🟥
