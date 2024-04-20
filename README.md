@@ -28,7 +28,8 @@ YOU CAN CHANGE 🍅🥚🧅🍆🥕🥦🧄🥔🌶️🫑🐖🐔🐂🐟 INTO 
 2. Locate the designated markers within the digitally scanned kitchen environment.
 3. Scan the markers to initiate the cooking instructions for selected dishes from the menu.
 4. Follow the on-screen instructions to prepare the dishes.
-5. Enjoy the company and assistance of the vegetable elves throughout the cooking process(also your delicious dishes!🥢)
+5. Enjoy the company and assistance of the vegetable elves throughout the cooking process
+6. Enjoy your delicious dishes!!🥢
 
 ## Features
 
@@ -43,7 +44,8 @@ We welcome contributions from the community! If you would like to contribute cod
 
 ## Version History
 
-- 1.0.0 (2024-04-20): Initial release.
+- 1.0.0 (2024-04-20): 🏫 Classroom Corner Edition
+- 2.0.0 (2024-05-01): 🍳 Kitchen Starter Edition
 
 ## License
 
@@ -51,4 +53,4 @@ This project is licensed under the MIT License. For details, please see the [LIC
 
 ## Contact
 
-For any questions or feedback, please contact us at [email@example.com](mailto:email@example.com).
+For any questions or feedback, please contact us at [ssl00zz00990000@gmail.com](mailto:ssl00zz00990000@gmail.com).
