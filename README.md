@@ -41,10 +41,6 @@ SingleCooked is an augmented reality (AR) application designed to assist users i
 - 1.0.0 (2024-04-20): 🏫 Classroom Corner Edition
 - 2.0.0 (2024-05-01): 🍳 Kitchen Starter Edition
 
-## License
-
-This project is licensed under the MIT License. For details, please see the [LICENSE](LICENSE) file.
-
 ## Acknowledgements
 
 We would like to express our gratitude to the following organizations for their support:
@@ -53,6 +49,31 @@ We would like to express our gratitude to the following organizations for their 
 - [MirrorVerse](https://deepmirror.vercel.app/)
 
 And special thanks to our teachers, [Tongzhou Yu](https://github.com/Tongzhou-Yu) and [Botao Amber Hu](https://github.com/botaohu), for their invaluable guidance and support!
+
+## Roadmap
+### Phase 1: Project Finalization Phase (Feb 29th - Mar 11th)
+Project Planning: Define game flow, character design, and UI design.
+Concept Art Production: Create concept art to visualize the project.
+Game Design: Finalize the game mechanics and level design.
+### Phase 2: Art Asset Production and Process Demonstration (Mar 12th - Mar 26th)
+Vegetable Modeling: Create 3D models of vegetables for the game.
+Rigging and Weight Painting: Rig the vegetable models and paint weights for animation.
+UV Unwrapping and Texture Packing: Unwrap UVs and create texture maps for models.
+Paper Prototype Video Production: Produce a video showcasing the paper prototype.
+SDK Testing: Test and integrate required SDKs for the project.
+### Phase 3: Unity Development and Classroom Testing (Mar 27th - Apr 16th)
+Character Animation: Create animations for characters and vegetables.
+Gesture Recognition Testing: Implement and test gesture recognition features.
+Code Implementation: Write and implement code for gameplay mechanics.
+Playtesting: Test the game flow and mechanics in a classroom setting.
+### Phase 4: Field Testing and On-site Debugging (Apr 17th - Apr 18th)
+Model Rescanning: Rescan physical models for accuracy.
+On-site UI Panel and Model Position Debugging: Adjust UI panels and model positions.
+Live Demo Recording: Record a live demonstration of the gameplay (enjoying delicious tomato and egg stir-fry🍛😋).
+
+## License
+
+This project is licensed under the MIT License. For details, please see the [LICENSE](LICENSE) file.
 
 ## Contact
 
