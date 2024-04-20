@@ -45,6 +45,15 @@ SingleCooked is an augmented reality (AR) application designed to assist users i
 
 This project is licensed under the MIT License. For details, please see the [LICENSE](LICENSE) file.
 
+## Acknowledgements
+
+We would like to express our gratitude to the following organizations for their support:
+- [Holokit](https://holokit.io/)
+- [Immersal](https://immersal.com/)
+- [MirrorVerse](https://deepmirror.vercel.app/)
+
+And special thanks to our teachers, [Tongzhou Yu](https://Tongzhou-Yu.github.io) and [Botao Amber Hu](https://github.com/botaohu), for their invaluable guidance and support!
+
 ## Contact
 
 For any questions or feedback, please contact us at [ssl00zz00990000@gmail.com](mailto:ssl00zz00990000@gmail.com)!Welcome for asking us about our SingleCooked and looking forward to hear feedbackヾ(o´∀｀o)ﾉ 
