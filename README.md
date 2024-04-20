@@ -70,6 +70,19 @@ Playtesting: Test the game flow and mechanics in a classroom setting.
 Model Rescanning: Rescan physical models for accuracy.
 On-site UI Panel and Model Position Debugging: Adjust UI panels and model positions.
 Live Demo Recording: Record a live demonstration of the gameplay (enjoying delicious tomato and egg stir-fry🍛😋).
+### ## Roadmap
+
+| **(Initial Vision)**                   | **(Implemented Features)** |
+|----------------------------------------|-----------------|
+| Scene Scanning and Anchor Placement: Establish anchor points for on-site scene scanning, including UI panel positions for food preparation, cooking, and dishwashing areas. |❌SDK not compatible(Choose Immersal SDK: Scan the model first and then fix the anchor point ✅)|
+| Recipe Functionality: Select dishes to begin cooking.                    |✅|
+| Countdown Timer Functionality: Provide countdown timer reminders.                |✅Add countdown timer completion and flame animation on the stove functionality.🔥|     
+| Step-by-step Audio Guidance: Implement audio cues for each cooking step.            |✅Choose sound yes/no, alarm sound, GarageBand; Success audio sourced from online materials.|
+| Background Music: Add background music to enhance the cooking experience.              |✅GarageBand(Thank you GarageBand!!)|
+| Vegetable Sprite Companion Functionality: Introduce vegetable sprites to accompany users during cooking.              |✅The required vegetables for the cooking steps appear, with paths following around to accompany. (Dotween) Add a new display in the lower right corner to show the corresponding vegetables for each step, making food preparation clearer.|
+| Interactive Features: Implement click and gesture interactions.                         |✅"OK" for selection or to proceed to the next step, "Five" for not selecting but to proceed to the next menu function.|
+| Gesture Recognition: Implement gesture recognition for interactive controls.                        |Click interaction ❌. (Choose gesture interaction ✅. OK for selection or to proceed to the next step, Five for not selecting but to proceed to the next menu function.)|
+
 
 ## License
 
