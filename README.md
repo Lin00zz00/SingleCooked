@@ -122,6 +122,11 @@ Find more interesting details to optimize.😋
 | Gesture Recognition: Implement gesture recognition for interactive controls.                        |Click interaction ❌. (Choose gesture interaction ✅. OK for selection or to proceed to the next step, Five for not selecting but to proceed to the next menu function.)|
 ||Add an animation for Succeed step🙌|
 
+## Meet the Culinary Conductors👋
+Shuxin Yan:Vegetable Elf Trainer, responsible for the daily life of each elf, 🧹 loves cooking and also loves her own children 🥺🥗
+00 Shen:Overcooked enthusiast🎮😋cat meme collector😼learning coding and Unity from Teacher GPT......🎓
+Duoduo Liang:False chef, real developer👩‍🍳
+
 ## License
 
 This project is licensed under the MIT License. For details, please see the [LICENSE](LICENSE) file.
