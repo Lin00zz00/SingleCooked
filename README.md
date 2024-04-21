@@ -91,6 +91,13 @@ Character Animation: Create animations for characters and vegetables.
 Gesture Recognition Testing: Implement and test gesture recognition features.
 Code Implementation: Write and implement code for gameplay mechanics.
 Playtesting: Test the game flow and mechanics in a classroom setting.
+<table>
+  <tr>
+    <td><img src="https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/Test01.jpg?raw=true" alt="Test 01" style="width: 300px;"></td>
+    <td><img src="https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/Test02.jpg?raw=true" alt="Test 02" style="width: 300px;"></td>
+  </tr>
+</table>
+
 ### Phase 4: Field Testing and On-site Debugging (Apr 17th - Apr 18th)
 Model Rescanning: Rescan physical models for accuracy.
 On-site UI Panel and Model Position Debugging: Adjust UI panels and model positions.
