@@ -103,6 +103,11 @@ Model Rescanning: Rescan physical models for accuracy.
 On-site UI Panel and Model Position Debugging: Adjust UI panels and model positions.
 Live Demo Recording: Record a live demonstration of the gameplay (enjoying delicious tomato and egg stir-fry🍛😋).
 
+### Next Phase：
+Add more dishes and their corresponding Vegetable Elves.🥦🥕🧄🌶️🫑
+Add a step bar in the upper right corner.📋
+Find more interesting details to optimize.😋
+
 | **(Initial Vision)**                   | **(Implemented Features)** |
 |----------------------------------------|-----------------|
 | Scene Scanning and Anchor Placement: Establish anchor points for on-site scene scanning, including UI panel positions for food preparation, cooking, and dishwashing areas. |❌SDK not compatible(Choose Immersal SDK: Scan the model first and then fix the anchor point ✅)|
