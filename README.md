@@ -2,7 +2,8 @@
 
 SingleCooked is an augmented reality (AR) application designed to assist users in cooking various dishes. Users can choose the dishes they like and follow step-by-step instructions to prepare it, all while being accompanied by cute vegetable elves for guidance and entertainment. 
 
-[![License](https://img.shields.io/badge/License-MIT🍽️-yellow.svg)](https://opensource.org/licenses/MIT)![Unity 2022.3.17](https://img.shields.io/badge/Unity-2022.3.17-blue)![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-red)
+[![License](https://img.shields.io/badge/License-MIT🍽️-yellow.svg)](https://opensource.org/licenses/MIT)![Unity 2022.3.17](https://img.shields.io/badge/Unity-2022.3.17-blue)![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-red)[![Language](https://img.shields.io/badge/Language-C%23-green.svg)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+
 
 
 
