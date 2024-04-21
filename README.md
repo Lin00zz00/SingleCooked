@@ -10,17 +10,22 @@ SingleCooked is an augmented reality (AR) application designed to assist users i
 ## Installation
 
 
-1. Clone this repository to your local machine:
+1. Download this repository to your local machine and get started! 📦
 
-    ```bash
-    git clone https://github.com/Lin00zz00/SingleCooked.git
-    ```
+2. Open the project file using Unity to begin your cooking adventure! 🛠️
 
-2. Install dependencies in the project directory:
+3. Import the HolokitSDK and its gesture recognition components to enhance your cooking experience! 
 
-    ```bash
-    npm install
-    ```
+4. Import the ImmersalSDK and dive into the immersive world of cooking! 
+
+5. Import the DoTweenSDK to add some smooth animations to your cooking scenes! 📱
+
+6. Use Immersal to scan the model of your kitchen and import it into Unity for a personalized cooking environment! 🏠
+
+7. Adjust the motion paths of VegtableElves based on the current kitchen model to make them feel right at home!
+
+8. Export to iPhone/iPad and share your cooking creations with the world! 🎉
+
 
 ## Usage
 
