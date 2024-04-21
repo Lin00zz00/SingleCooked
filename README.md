@@ -60,14 +60,14 @@ Concept Art Production: Create concept art to visualize the project.
 Game Design: Finalize the game mechanics and level design.
 <table style="border-collapse: collapse; border-color: white;">
   <tr>
-    <td><img src="https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/01.jpg?raw=true" alt="Image 1" style="display:block;"></td>
-    <td><img src="https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/02.jpg?raw=true" alt="Image 2" style="display:block;"></td>
-    <td><img src="https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/03.jpg?raw=true" alt="Image 3" style="display:block;"></td>
+    <td><a href="#"><img src="https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/01.jpg?raw=true" alt="Image 1" style="display:block;"></a></td>
+    <td><a href="#"><img src="https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/02.jpg?raw=true" alt="Image 2" style="display:block;"></a></td>
+    <td><a href="#"><img src="https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/03.jpg?raw=true" alt="Image 3" style="display:block;"></a></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/04.png?raw=true" alt="Image 4" style="display:block;"></td>
-    <td><img src="https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/05.jpg?raw=true" alt="Image 5" style="display:block;"></td>
-    <td><img src="https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/06.jpg?raw=true" alt="Image 6" style="display:block;"></td>
+    <td><a href="#"><img src="https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/04.png?raw=true" alt="Image 4" style="display:block;"></a></td>
+    <td><a href="#"><img src="https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/05.jpg?raw=true" alt="Image 5" style="display:block;"></a></td>
+    <td><a href="#"><img src="https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/06.jpg?raw=true" alt="Image 6" style="display:block;"></a></td>
   </tr>
 </table>
 
