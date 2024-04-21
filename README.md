@@ -98,7 +98,7 @@ For any questions or feedback, please contact us at [ssl00zz00990000@gmail.com](
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Scrolling Text</title>
+<title>滚动文本</title>
 <style>
   .scrolling-text {
     width: 200px; /* 设置宽度 */
@@ -117,5 +117,6 @@ For any questions or feedback, please contact us at [ssl00zz00990000@gmail.com](
 </div>
 </body>
 </html>
+
 
 ## 🟥S🟧i🟨n🟩g🟦l🟪e🟥C🟧o🟨o🟩k🟦e🟪d🟥
