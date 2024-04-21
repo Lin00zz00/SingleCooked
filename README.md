@@ -45,7 +45,7 @@ SingleCooked is an augmented reality (AR) application designed to assist users i
 
 ## Acknowledgements
 
-We would like to express our gratitude to the following organizations for their support:
+We would like to express our gratitude to the following organizations and individuals for their support:
 - [Holokit](https://holokit.io/)
 - [Immersal](https://immersal.com/)
 - [MirrorVerse](https://deepmirror.vercel.app/)
