@@ -47,7 +47,7 @@ SingleCooked is an augmented reality (AR) application designed to assist users i
 - 1.0.0 (2024-04-16): 🏫 Classroom Corner Edition
 - 2.0.0 (2024-04-18): 🍳 Kitchen Starter Edition
 
-## Acknowledgements
+## Acknowledgements🙇‍♂️🙇🙇‍♂️
 
 We would like to express our gratitude to the following organizations and individuals for their support:
 - [Holokit](https://holokit.io/)
@@ -133,7 +133,7 @@ Shuxin Yan:Vegetable Elf Trainer, responsible for the daily life of each elf, �
 
 00 Shen:Overcooked enthusiast🎮😋cat meme collector😼learning coding and Unity from Teacher GPT......🎓
 
-Duoduo Liang:False chef, real developer👩‍🍳
+Duoduo Liang:a casual cook but a joyful learner👩‍🍳Behind my chef's hat, you'll find the heart of a true developer💻
 
 ## License
 
@@ -143,7 +143,7 @@ This project is licensed under the MIT License. For details, please see the [LIC
 
 For any questions or feedback, please contact us at [ssl00zz00990000@gmail.com](mailto:ssl00zz00990000@gmail.com)!Welcome for asking us about our SingleCooked and looking forward to hear feedbackヾ(o´∀｀o)ﾉ 
 
-## Tools and Frameworks
+## Tools and Frameworks🛠️
 [![Unity Logo](https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/Logo/Unity.png)](https://unity.com/)
 <span style="margin-right: 20px;"></span>
 [![Blender Logo](https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/Logo/Blender.png)](https://www.blender.org/)
