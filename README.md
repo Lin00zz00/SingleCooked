@@ -93,7 +93,7 @@ This project is licensed under the MIT License. For details, please see the [LIC
 
 For any questions or feedback, please contact us at [ssl00zz00990000@gmail.com](mailto:ssl00zz00990000@gmail.com)!Welcome for asking us about our SingleCooked and looking forward to hear feedbackヾ(o´∀｀o)ﾉ 
 
-# interactive-button {
+#interactive-button {
     background-image: url('https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/Probe/tomato.png?raw=true');
     border: none;
     color: white;
@@ -107,7 +107,7 @@ For any questions or feedback, please contact us at [ssl00zz00990000@gmail.com](
     border-radius: 8px;
 }
 
-# interactive-button:hover {
+#interactive-button:hover {
     background-color: #4CAF50; /* 绿色 */
 }
 
