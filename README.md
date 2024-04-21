@@ -133,7 +133,7 @@ Shuxin Yan:Vegetable Elf Trainer, responsible for the daily life of each elf, �
 
 00 Shen:Overcooked enthusiast🎮😋cat meme collector😼learning coding and Unity from Teacher GPT......🎓
 
-Duoduo Liang:a casual cook but a joyful learner👩‍🍳Behind my chef's hat, you'll find the heart of a true developer💻
+Duoduo Liang:a casual cook but a joyful learner👩‍🍳Behind my chef's hat, you'll find a true developer💻
 
 ## License
 
