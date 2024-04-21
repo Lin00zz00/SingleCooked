@@ -98,25 +98,43 @@ For any questions or feedback, please contact us at [ssl00zz00990000@gmail.com](
 <head>
   <title>滚动文本</title>
   <style>
-    .scrolling-text-container {
+    .scrolling-text {
       width: 200px;
       height: 100px;
-      overflow: auto;
+      overflow: hidden;
       border: 1px solid #ccc;
       white-space: nowrap;
-    }
-    
-    .scrolling-text {
-      padding: 10px;
     }
   </style>
 </head>
 <body>
-  <div class="scrolling-text-container">
-    <div class="scrolling-text">
-      SINGLECOOKED
-    </div>
+  <div class="scrolling-text" id="scrollingText">
+    SINGLECOOKED
   </div>
+
+  <script>
+    function scrollText() {
+      var scrollingText = document.getElementById("scrollingText");
+      var textWidth = scrollingText.scrollWidth;
+      var containerWidth = scrollingText.clientWidth;
+
+      if (textWidth > containerWidth) {
+        var scrollDistance = textWidth - containerWidth;
+        var duration = scrollDistance * 20;
+
+        scrollingText.animate(
+          { transform: "translateX(-" + scrollDistance + "px)" },
+          {
+            duration: duration,
+            easing: "linear",
+            iterations: Infinity
+          }
+        );
+      }
+    }
+
+    window.onload = scrollText;
+  </script>
 </body>
 </html>
 
