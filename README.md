@@ -58,14 +58,18 @@ And special thanks to our teachers, [Tongzhou Yu](https://github.com/Tongzhou-Yu
 Project Planning: Define game flow, character design, and UI design.
 Concept Art Production: Create concept art to visualize the project.
 Game Design: Finalize the game mechanics and level design.
-<div style="overflow-y: scroll; height: 400px;">
-    <img src="https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/01.jpg?raw=true" style="display: block; margin-bottom: 10px;">
-    <img src="https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/02.jpg?raw=true" style="display: block; margin-bottom: 10px;">
-    <img src="https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/03.jpg?raw=true" style="display: block; margin-bottom: 10px;">
-    <img src="https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/04.png?raw=true" style="display: block; margin-bottom: 10px;">
-    <img src="https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/05.jpg?raw=true" style="display: block; margin-bottom: 10px;">
-    <!-- Add more images here -->
-</div>
+<table style="border-collapse: collapse; border-color: white;">
+  <tr>
+    <td><img src="https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/01.jpg?raw=true" alt="Image 1"></td>
+    <td><img src="https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/02.jpg?raw=true" alt="Image 2"></td>
+    <td><img src="https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/03.jpg?raw=true" alt="Image 3"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/04.png?raw=true" alt="Image 4"></td>
+    <td><img src="https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/05.jpg?raw=true" alt="Image 5"></td>
+    <td><img src="https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/06.jpg?raw=true" alt="Image 6"></td>
+  </tr>
+</table>
 
 ### Phase 2: Art Asset Production and Process Demonstration (Mar 12th - Mar 26th)
 Vegetable Modeling: Create 3D models of vegetables for the game.
