@@ -93,28 +93,10 @@ This project is licensed under the MIT License. For details, please see the [LIC
 
 For any questions or feedback, please contact us at [ssl00zz00990000@gmail.com](mailto:ssl00zz00990000@gmail.com)!Welcome for asking us about our SingleCooked and looking forward to hear feedbackヾ(o´∀｀o)ﾉ 
 
-<style>
-/* 自定义按钮样式 */
-.custom-button {
-  background-image: 🍅; /* 背景图像 */
-  background-size: cover; /* 背景大小 */
-  width: 100px; /* 按钮宽度 */
-  height: 100px; /* 按钮高度 */
-  border: none; /* 边框 */
-  cursor: pointer; /* 鼠标样式 */
-}
-</style>
-
-<!-- 自定义按钮 -->
-<button class="custom-button" onclick="showHeart()"></button>
-<span id="heart" style="display:none;">❤️</span>
-
-<script>
-function showHeart() {
-  document.getElementById("heart").style.display = "inline";
-}
-</script>
-
-
+<div class="scrolling-text-container">
+  <div class="scrolling-text">
+    SINGLECOOKED😼SINGLECOOKED😼SINGLECOOKED😼SINGLECOOKED😼
+  </div>
+</div>
 
 ## 🟥S🟧i🟨n🟩g🟦l🟪e🟥C🟧o🟨o🟩k🟦e🟪d🟥
