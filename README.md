@@ -102,6 +102,12 @@ Playtesting: Test the game flow and mechanics in a classroom setting.
 Model Rescanning: Rescan physical models for accuracy.
 On-site UI Panel and Model Position Debugging: Adjust UI panels and model positions.
 Live Demo Recording: Record a live demonstration of the gameplay (enjoying delicious tomato and egg stir-fry🍛😋).
+<table>
+  <tr>
+    <td><img src="https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/InKitchen01.jpg?raw=true" alt="In Kitchen 01" style="width: 300px;"></td>
+    <td><img src="https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/InKitchen02.jpg?raw=true" alt="In Kitchen 02" style="width: 300px;"></td>
+  </tr>
+</table>
 
 ### Next Phase：
 Add more dishes and their corresponding Vegetable Elves.🥦🥕🧄🌶️🫑
