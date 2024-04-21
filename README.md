@@ -96,7 +96,7 @@ For any questions or feedback, please contact us at [ssl00zz00990000@gmail.com](
 <style>
 /* 自定义按钮样式 */
 .custom-button {
-  background-image: url('https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/Probe/tomato.png?raw=true'); /* 背景图像 */
+  background-image: url('tomato.png'); /* 背景图像 */
   background-size: cover; /* 背景大小 */
   width: 100px; /* 按钮宽度 */
   height: 100px; /* 按钮高度 */
