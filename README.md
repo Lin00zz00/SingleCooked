@@ -9,7 +9,7 @@ SingleCooked is an augmented reality (AR) application designed to assist users i
 
 ## YOU CAN CHANGE 🍅🥚🧅🍆🥕🥦🧄🥔🌶️🫑🐖🐔🐂🐟 INTO 🍖🌮🍳🍲🥗🍲🍳🍕🍚🍜🍝🍱🍛🍢🍥🍣 BY SingleCooked!!!!
 
-## Installation!
+## Installation
 
 
 1. Clone this repository to your local machine:
@@ -58,6 +58,7 @@ And special thanks to our teachers, [Tongzhou Yu](https://github.com/Tongzhou-Yu
 Project Planning: Define game flow, character design, and UI design.
 Concept Art Production: Create concept art to visualize the project.
 Game Design: Finalize the game mechanics and level design.
+(https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/01.jpg?raw=true)(https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/02.jpg?raw=true)(https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/02.jpg?raw=true)(https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/04.png?raw=true)(https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/05.jpg?raw=true)
 ### Phase 2: Art Asset Production and Process Demonstration (Mar 12th - Mar 26th)
 Vegetable Modeling: Create 3D models of vegetables for the game.
 Rigging and Weight Painting: Rig the vegetable models and paint weights for animation.
