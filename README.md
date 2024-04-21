@@ -53,7 +53,7 @@ We would like to express our gratitude to the following organizations and indivi
 And special thanks to our teachers, [Tongzhou Yu](https://github.com/Tongzhou-Yu) and [Botao Amber Hu](https://github.com/botaohu), for their invaluable guidance and support!
 
 ## Roadmap
-### Phase 1: Project Finalization Phase (Feb 29th - Mar 11th)
+### ●Phase 1: Project Finalization Phase (Feb 29th - Mar 11th)
 Project Planning: Define game flow, character design, and UI design.
 Concept Art Production: Create concept art to visualize the project.
 Game Design: Finalize the game mechanics and level design.
@@ -70,7 +70,7 @@ Game Design: Finalize the game mechanics and level design.
   </tr>
 </table>
 
-### Phase 2: Art Asset Production and Process Demonstration (Mar 12th - Mar 26th)
+### ●Phase 2: Art Asset Production and Process Demonstration (Mar 12th - Mar 26th)
 Vegetable Modeling: Create 3D models of vegetables for the game.
 Rigging and Weight Painting: Rig the vegetable models and paint weights for animation.
 UV Unwrapping and Texture Packing: Unwrap UVs and create texture maps for models.
@@ -83,7 +83,7 @@ SDK Testing: Test and integrate required SDKs for the project.
   </tr>
 </table>
 
-### Phase 3: Unity Development and Classroom Testing (Mar 27th - Apr 16th)
+### ●Phase 3: Unity Development and Classroom Testing (Mar 27th - Apr 16th)
 Character Animation: Create animations for characters and vegetables.
 Gesture Recognition Testing: Implement and test gesture recognition features.
 Code Implementation: Write and implement code for gameplay mechanics.
@@ -95,7 +95,7 @@ Playtesting: Test the game flow and mechanics in a classroom setting.
   </tr>
 </table>
 
-### Phase 4: Field Testing and On-site Debugging (Apr 17th - Apr 18th)
+### ●Phase 4: Field Testing and On-site Debugging (Apr 17th - Apr 18th)
 Model Rescanning: Rescan physical models for accuracy.
 On-site UI Panel and Model Position Debugging: Adjust UI panels and model positions.
 Live Demo Recording: Record a live demonstration of the gameplay (enjoying delicious tomato and egg stir-fry🍛😋).
@@ -106,7 +106,7 @@ Live Demo Recording: Record a live demonstration of the gameplay (enjoying delic
   </tr>
 </table>
 
-### Next Phase：
+### ●Next Phase：
 Add more dishes and their corresponding Vegetable Elves.🥦🥕🧄🌶️🫑
 Add a step bar in the upper right corner.📋
 Find more interesting details to optimize.😋
