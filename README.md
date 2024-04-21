@@ -48,6 +48,7 @@ We would like to express our gratitude to the following organizations and indivi
 - [Holokit](https://holokit.io/)
 - [Immersal](https://immersal.com/)
 - [MirrorVerse](https://deepmirror.vercel.app/)
+- [DoTween](https://dotween.demigiant.com/)
 
 And special thanks to our teachers, [Tongzhou Yu](https://github.com/Tongzhou-Yu) and [Botao Amber Hu](https://github.com/botaohu), for their invaluable guidance and support!
 
@@ -117,7 +118,7 @@ Find more interesting details to optimize.😋
 | Countdown Timer Functionality: Provide countdown timer reminders.                |✅Add countdown timer completion and flame animation on the stove functionality.🔥|     
 | Step-by-step Audio Guidance: Implement audio cues for each cooking step.            |✅Choose sound yes/no, alarm sound, GarageBand; Success audio sourced from online materials.|
 | Background Music: Add background music to enhance the cooking experience.              |✅GarageBand(Thank you GarageBand!!)|
-| Vegetable Sprite Companion Functionality: Introduce vegetable sprites to accompany users during cooking.              |✅The required vegetables for the cooking steps appear, with paths following around to accompany. (Dotween) Add a new display in the lower right corner to show the corresponding vegetables for each step, making food preparation clearer.|
+| Vegetable Sprite Companion Functionality: Introduce vegetable sprites to accompany users during cooking.              |✅The required vegetables for the cooking steps appear, with paths following around to accompany. (DoTween) Add a new display in the lower right corner to show the corresponding vegetables for each step, making food preparation clearer.|
 | Interactive Features: Implement click and gesture interactions.                         |✅"OK" for selection or to proceed to the next step, "Five" for not selecting but to proceed to the next menu function.|
 | Gesture Recognition: Implement gesture recognition for interactive controls.                        |Click interaction ❌. (Choose gesture interaction ✅. OK for selection or to proceed to the next step, Five for not selecting but to proceed to the next menu function.)|
 ||Add an animation for Succeed step🙌|
