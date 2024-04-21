@@ -58,12 +58,12 @@ And special thanks to our teachers, [Tongzhou Yu](https://github.com/Tongzhou-Yu
 Project Planning: Define game flow, character design, and UI design.
 Concept Art Production: Create concept art to visualize the project.
 Game Design: Finalize the game mechanics and level design.
-<div style="overflow-x: scroll; white-space: nowrap;">
-    <img src="https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/01.jpg?raw=true" style="display: inline-block;">
-    <img src="https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/02.jpg?raw=true" style="display: inline-block;">
-    <img src="https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/03.jpg?raw=true" style="display: inline-block;">
-    <img src="https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/04.png?raw=true" style="display: inline-block;">
-    <img src="https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/05.jpg?raw=true" style="display: inline-block;">
+<div style="overflow-y: scroll; height: 400px;">
+    <img src="https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/01.jpg?raw=true" style="display: block; margin-bottom: 10px;">
+    <img src="https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/02.jpg?raw=true" style="display: block; margin-bottom: 10px;">
+    <img src="https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/03.jpg?raw=true" style="display: block; margin-bottom: 10px;">
+    <img src="https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/04.png?raw=true" style="display: block; margin-bottom: 10px;">
+    <img src="https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/05.jpg?raw=true" style="display: block; margin-bottom: 10px;">
     <!-- Add more images here -->
 </div>
 
