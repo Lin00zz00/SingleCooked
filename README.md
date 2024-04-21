@@ -39,16 +39,16 @@ SingleCooked is an augmented reality (AR) application designed to assist users i
 
 ## Version History
 
-- 1.0.0 (2024-04-20): 🏫 Classroom Corner Edition
-- 2.0.0 (2024-05-01): 🍳 Kitchen Starter Edition
+- 1.0.0 (2024-04-16): 🏫 Classroom Corner Edition
+- 2.0.0 (2024-04-18): 🍳 Kitchen Starter Edition
 
 ## Acknowledgements
 
 We would like to express our gratitude to the following organizations and individuals for their support:
 - [Holokit](https://holokit.io/)
 - [Immersal](https://immersal.com/)
-- [MirrorVerse](https://deepmirror.vercel.app/)
 - [DoTween](https://dotween.demigiant.com/)
+- [MirrorVerse](https://deepmirror.vercel.app/)
 
 And special thanks to our teachers, [Tongzhou Yu](https://github.com/Tongzhou-Yu) and [Botao Amber Hu](https://github.com/botaohu), for their invaluable guidance and support!
 
@@ -140,9 +140,16 @@ For any questions or feedback, please contact us at [ssl00zz00990000@gmail.com](
 
 ## Tools and Frameworks
 [![Unity Logo](https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/Logo/Unity.png)](https://unity.com/)
+<span style="margin-right: 10px;"></span>
 [![Blender Logo](https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/Logo/Blender.png)](https://www.blender.org/)
+<span style="margin-right: 10px;"></span>
 [![VSCode Logo](https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/Logo/VSCode.png)](https://code.visualstudio.com/)
+<span style="margin-right: 10px;"></span>
 [![Procreate Logo](https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/Logo/Procreate.png)](https://procreate.com/)
+<span style="margin-right: 10px;"></span>
 [![GarageBand Logo](https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/Logo/GarageBand01.png)](https://support.apple.com/zh-cn/garageband)
 
-## 🟥S🟧i🟨n🟩g🟦l🟪e🟥C🟧o🟨o🟩k🟦e🟪d🟥
+
+
+
+# 👩‍🍳SINGLECOOKED👩‍🍳
