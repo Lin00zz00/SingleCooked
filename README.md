@@ -97,6 +97,7 @@ For any questions or feedback, please contact us at [ssl00zz00990000@gmail.com](
 [![Unity Logo](https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/Logo/Unity.png)](https://unity.com/)
 [![Blender Logo](https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/Logo/Blender.png)](https://www.blender.org/)
 [![VSCode Logo](https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/Logo/VSCode.png)](https://code.visualstudio.com/)
-
+[![Procreate Logo](https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/Logo/Procreate.png)](https://procreate.com/)
+[![GarageBand Logo](https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/Logo/GarageBand.png)](https://support.apple.com/zh-cn/garageband)
 
 ## 🟥S🟧i🟨n🟩g🟦l🟪e🟥C🟧o🟨o🟩k🟦e🟪d🟥
