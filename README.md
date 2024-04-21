@@ -131,7 +131,7 @@ Find more interesting details to optimize.😋
 ## Meet the Culinary Conductors👋
 Shuxin Yan:Vegetable Elf Trainer, responsible for the daily life of each elf, 🧹 loves cooking and also loves her own children 🥺🥗
 
-00 Shen:Overcooked enthusiast🎮😋cat meme collector😼learning coding and Unity from Teacher GPT......🎓
+00 Shen:Overcooked enthusiast🎮😋cat meme collector😼learning coding from Teacher GPT......🎓
 
 Duoduo Liang:a casual cook but a joyful learner👩‍🍳Behind my chef's hat, you'll find a true developer💻
 
