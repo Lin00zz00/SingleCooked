@@ -93,12 +93,33 @@ This project is licensed under the MIT License. For details, please see the [LIC
 
 For any questions or feedback, please contact us at [ssl00zz00990000@gmail.com](mailto:ssl00zz00990000@gmail.com)!Welcome for asking us about our SingleCooked and looking forward to hear feedbackヾ(o´∀｀o)ﾉ 
 
-<details>
-<summary>点击展开滚动文本</summary>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>滚动文本</title>
+  <style>
+    .scrolling-text-container {
+      width: 200px;
+      height: 100px;
+      overflow: auto;
+      border: 1px solid #ccc;
+      white-space: nowrap;
+    }
+    
+    .scrolling-text {
+      padding: 10px;
+    }
+  </style>
+</head>
+<body>
+  <div class="scrolling-text-container">
+    <div class="scrolling-text">
+      SINGLECOOKED
+    </div>
+  </div>
+</body>
+</html>
 
-SINGLECOOKED
-
-</details>
 
 
 ## 🟥S🟧i🟨n🟩g🟦l🟪e🟥C🟧o🟨o🟩k🟦e🟪d🟥
