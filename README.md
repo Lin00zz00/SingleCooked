@@ -54,6 +54,7 @@ We would like to express our gratitude to the following organizations and indivi
 - [Immersal](https://immersal.com/)
 - [DoTween](https://dotween.demigiant.com/)
 - [MirrorVerse](https://deepmirror.vercel.app/)
+- [ChatGPT](https://chat.openai.com/)
 
 And special thanks to our teachers, [Tongzhou Yu](https://github.com/Tongzhou-Yu) and [Botao Amber Hu](https://github.com/botaohu), for their invaluable guidance and support!
 
