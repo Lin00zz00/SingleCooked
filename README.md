@@ -22,7 +22,7 @@ SingleCooked is an augmented reality (AR) application designed to assist users i
 
 6. Use Immersal to scan the model of your kitchen and import it into Unity for a personalized cooking environment! 🏠
 
-7. Adjust the motion paths of VegtableElves based on the current kitchen model to make them feel right at home!
+7. Adjust the motion paths of VegetableElves based on the current kitchen model to make them feel right at home!
 
 8. Export to iPhone/iPad and share your cooking creations with the world! 🎉
 
