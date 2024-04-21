@@ -95,7 +95,8 @@ For any questions or feedback, please contact us at [ssl00zz00990000@gmail.com](
 
 ## Tools and Frameworks
 [![Unity Logo](https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/Logo/Unity.png)](https://unity.com/)
-[![Blender Logo](https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/Logo/Blender.png)](https://www.blender.org//)
+[![Blender Logo](https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/Logo/Blender.png)](https://www.blender.org/)
 [![VSCode Logo](https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/Logo/VSCode.png)](https://code.visualstudio.com/)
+
 
 ## 🟥S🟧i🟨n🟩g🟦l🟪e🟥C🟧o🟨o🟩k🟦e🟪d🟥
