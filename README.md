@@ -82,10 +82,7 @@ SDK Testing: Test and integrate required SDKs for the project.
 <table>
   <tr>
     <td><img src="https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/Step02.jpg?raw=true" alt="Step 2" style="width: 300px;"></td>
-    <td><video width="320" height="240" controls>
-  <source src="https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/PaperModel.mp4?raw=true" type="video/mp4">
-  Your browser does not support the video tag.
-</video></td>
+    <td><img src="https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/PaperModel.jpg?raw=true" alt="Paper Model" style="width: 300px;"></td>
   </tr>
 </table>
 
