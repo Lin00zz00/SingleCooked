@@ -51,13 +51,13 @@ SingleCooked is an augmented reality (AR) application designed to assist users i
 ## Acknowledgements🙇‍♂️🙇🙇‍♂️
 
 🌟We would like to express our gratitude to the following organizations and individuals for their support:
-- [Holokit](https://holokit.io/)♥️
-- [Immersal](https://immersal.com/)♥️
-- [DoTween](https://dotween.demigiant.com/)♥️
-- [MirrorVerse](https://deepmirror.vercel.app/)♥️
-- [ChatGPT](https://chat.openai.com/)♥️
+- [Holokit](https://holokit.io/)
+- [Immersal](https://immersal.com/)
+- [DoTween](https://dotween.demigiant.com/)
+- [MirrorVerse](https://deepmirror.vercel.app/)
+- [ChatGPT](https://chat.openai.com/)
 
-And special thanks to our teachers, [Tongzhou Yu](https://github.com/Tongzhou-Yu)♥️ and [Botao Amber Hu](https://github.com/botaohu)♥️and [Yongru Lu]♥️ , for their invaluable guidance and support!
+And special thanks to our teachers, [Tongzhou Yu](https://github.com/Tongzhou-Yu) and [Botao Amber Hu](https://github.com/botaohu)and [Yongru Lu] , for their invaluable guidance and support!
 
 ## Roadmap
 ### ●Phase 1: Project Start Phase (Feb 29th - Mar 11th)
