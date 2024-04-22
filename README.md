@@ -19,8 +19,8 @@ SingleCooked is an augmented reality (AR) application designed to assist users i
     <td><img src="https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/GIF/03.GIF" alt="03" style="width: 300px;"></td>
   </tr>
 </table>
-## Installation
 
+## Installation
 
 1. Download this repository to your local machine and get started! 📦
 
