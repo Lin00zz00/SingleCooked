@@ -1,3 +1,4 @@
+![SingleCooked01](https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/GIF/SingleCooked01.GIF)
 # SingleCooked
 
 SingleCooked is an augmented reality (AR) application designed to assist users in cooking various dishes. Users can choose the dishes they like and follow step-by-step instructions to prepare it, all while being accompanied by cute vegetable elves for guidance and entertainment. 
