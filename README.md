@@ -59,7 +59,7 @@ We would like to express our gratitude to the following organizations and indivi
 And special thanks to our teachers, [Tongzhou Yu](https://github.com/Tongzhou-Yu) and [Botao Amber Hu](https://github.com/botaohu), for their invaluable guidance and support!
 
 ## Roadmap
-### ●Phase 1: Project Finalization Phase (Feb 29th - Mar 11th)
+### ●Phase 1: Project Start Phase (Feb 29th - Mar 11th)
 Project Planning: Define game flow, character design, and UI design.
 Concept Art Production: Create concept art to visualize the project.
 Game Design: Finalize the game mechanics and level design.
