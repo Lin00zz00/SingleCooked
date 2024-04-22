@@ -4,6 +4,17 @@ SingleCooked is an augmented reality (AR) application designed to assist users i
 
 ### YOU CAN CHANGE 🍅🥚🧅🍆🥕🥦🧄🥔🌶️🫑🐖🐔🐂🐟 INTO 🍖🌮🍳🍲🥗🍲🍳🍕🍚🍜🍝🍱🍛🍢🍥🍣 BY SingleCooked!!!!
 
+<!-- 在 readme 中添加一个按钮 -->
+<button onclick="sayHello()">点击我</button>
+
+<!-- JavaScript 代码 -->
+<script>
+    // 定义一个函数，在按钮被点击时调用
+    function sayHello() {
+        alert('Hello, World!'); // 显示一个弹窗
+    }
+</script>
+
 
 [![License](https://img.shields.io/badge/License-MIT🍽️-yellow.svg)](https://opensource.org/licenses/MIT)![Unity 2022.3.17](https://img.shields.io/badge/Unity-2022.3.17-blue)![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-red)[![Language](https://img.shields.io/badge/Language-C%23-green.svg)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
