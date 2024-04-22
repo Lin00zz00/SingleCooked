@@ -99,8 +99,10 @@ SDK Testing: Test and integrate required SDKs for the project.
     <td><img src="https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/Step02.jpg?raw=true" alt="Step 2" style="width: 300px;"></td>
     <td><img src="https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/PaperModel.jpg?raw=true" alt="Paper Model" style="width: 300px;"></td>
   </tr>
+  <tr>
+    <td colspan="2"><img src="https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/VegetableFamily.png?raw=true" alt="Vegetable Family" style="width: 600px;"></td>
+  </tr>
 </table>
-![VegetableFamily](https://github.com/Lin00zz00/SingleCooked/blob/main/Pictures/VegetableFamily.png)
 
 ### ●Phase 3: Unity Development and Classroom Testing (Mar 27th - Apr 16th)
 Character Animation: Create animations for characters and vegetables.
