@@ -68,7 +68,7 @@ SingleCooked is an augmented reality (AR) application designed to assist users i
 - [MirrorVerse](https://deepmirror.vercel.app/)
 - [ChatGPT](https://chat.openai.com/)
 
-And special thanks to our teachers, [Tongzhou Yu](https://github.com/Tongzhou-Yu) and [Botao Amber Hu](https://github.com/botaohu)and [Yongru Lu] , for their invaluable guidance and support!
+And special thanks to our teachers, [Tongzhou Yu](https://github.com/Tongzhou-Yu) and [Botao Amber Hu](https://github.com/botaohu)and Yongru Lu , for their invaluable guidance and support!
 
 ## Roadmap
 ### ●Phase 1: Project Start Phase (Feb 29th - Mar 11th)
