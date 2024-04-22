@@ -121,6 +121,7 @@ Find more interesting details to optimize.😋
 |----------------------------------------|-----------------|
 | Scene Scanning and Anchor Placement: Establish anchor points for on-site scene scanning, including UI panel positions for food preparation, cooking, and dishwashing areas. |❌SDK not compatible(Choose Immersal SDK: Scan the model first and then fix the anchor point ✅)|
 | Recipe Functionality: Select dishes to begin cooking.                    |✅|
+| UI Step Design: Summarize step-by-step UI interface guidance based on specific dishes.                    |✅|
 | Countdown Timer Functionality: Provide countdown timer reminders.                |✅Add countdown timer completion and flame animation on the stove functionality.🔥|     
 | Step-by-step Audio Guidance: Implement audio cues for each cooking step.            |✅Choose sound yes/no, alarm sound, GarageBand; Success audio sourced from online materials.|
 | Background Music: Add background music to enhance the cooking experience.              |✅GarageBand(Thank you GarageBand!!)|
